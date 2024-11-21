@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FALL_2024/EE278/miniproject1/fp_mac_pipelined/fp_mac_pipelined.srcs/sources_1/new/fp_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fp_adder_pipelined
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FALL_2024/EE278/miniproject1/fp_mac_pipelined/fp_mac_pipelined.srcs/sources_1/new/fp_mulitiplier.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fp_multiplier_pipelined
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FALL_2024/EE278/miniproject1/fp_mac_pipelined/fp_mac_pipelined.srcs/sources_1/new/fp_mac_pipelined.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fp_mac_pipelined
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FALL_2024/EE278/miniproject1/fp_mac_pipelined/fp_mac_pipelined.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
