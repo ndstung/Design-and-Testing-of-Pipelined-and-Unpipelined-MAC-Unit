@@ -1,0 +1,16 @@
+Time resolution is 1 ps
+Time: 0 ns, A = 0000, B = 0000, Sum = 0000
+Time: 15 ns, A = 0000, B = 0000, Sum = 0400
+Time: 20 ns, A = 3d00, B = 3c80, Sum = 0400
+Time: 25 ns, A = 3d00, B = 3c80, Sum = 0000
+Time: 35 ns, A = 3d00, B = 3c80, Sum = 40c0
+Time: 50 ns, A = c040, B = c390, Sum = 40c0
+Time: 55 ns, A = c040, B = c390, Sum = 41e8
+Time: 65 ns, A = c040, B = c390, Sum = c5e8
+Time: 80 ns, A = 4400, B = 480b, Sum = c5e8
+Time: 85 ns, A = 4400, B = 480b, Sum = c20b
+Time: 95 ns, A = 4400, B = 480b, Sum = 4a0b
+Time: 110 ns, A = 2b49, B = 0f0d, Sum = 4a0b
+Time: 115 ns, A = 2b49, B = 0f0d, Sum = 4b57
+Time: 125 ns, A = 2b49, B = 0f0d, Sum = 2b57
+$finish called at time : 180 ns : File "D:/FALL_2024/EE278/miniproject1/miniproject1_fp_adder/miniproject1_fp_adder.srcs/sim_1/new/fp_adder_tb.v" Line 82
