@@ -1,0 +1,34 @@
+Time resolution is 1 ps
+At time 0ns: A = xxxx, B = xxxx, C = xxxx, Result = 0000
+At time 10ns: A = 3400, B = 0000, C = 3a00, Result = 0000
+At time 45ns: A = 3400, B = 0000, C = 3a00, Result = 3800
+At time 55ns: A = 3400, B = 0000, C = 3a00, Result = 3f00
+Test case 1: 0.25 + 1.125 -> Result = 3f00
+At time 60ns: A = 56c0, B = 0000, C = e2c0, Result = 3f00
+At time 75ns: A = 56c0, B = 0000, C = e2c0, Result = 7f00
+At time 85ns: A = 56c0, B = 0000, C = e2c0, Result = 7e00
+At time 105ns: A = 56c0, B = 0000, C = e2c0, Result = 7be5
+Test case 2: 150 - 250 -> Result = 7be5
+At time 110ns: A = c020, B = c740, C = 0000, Result = 7be5
+At time 125ns: A = c020, B = c740, C = 0000, Result = 63e5
+At time 135ns: A = c020, B = c740, C = 0000, Result = e760
+At time 145ns: A = c020, B = c740, C = 0000, Result = 9f60
+At time 155ns: A = c020, B = c740, C = 0000, Result = 1e08
+Test case 3: -2.5 × -7.25 -> Result = 1e08
+At time 160ns: A = 1a5a, B = 0000, C = 04b0, Result = 1e08
+At time 175ns: A = 1a5a, B = 0000, C = 04b0, Result = 4e08
+At time 185ns: A = 1a5a, B = 0000, C = 04b0, Result = 4e00
+Test case 4: 0.0001 + 0.00000001 -> Result = 4e00
+At time 210ns: A = 4a00, B = 0000, C = dfa3, Result = 4e00
+At time 225ns: A = 4a00, B = 0000, C = dfa3, Result = 6200
+At time 255ns: A = 4a00, B = 0000, C = dfa3, Result = dfa3
+Test case 5: 1024 - 8075 -> Result = dfa3
+At time 260ns: A = 5797, B = 40c0, C = 0000, Result = dfa3
+At time 285ns: A = 5797, B = 40c0, C = 0000, Result = e3d1
+At time 295ns: A = 5797, B = 40c0, C = 0000, Result = 93d1
+At time 305ns: A = 5797, B = 40c0, C = 0000, Result = 1240
+Test case 6: 2014 × 3.75 -> Result = 1240
+At time 325ns: A = 5797, B = 40c0, C = 0000, Result = 5e40
+At time 335ns: A = 5797, B = 40c0, C = 0000, Result = 6200
+At time 345ns: A = 5797, B = 40c0, C = 0000, Result = 6350
+$finish called at time : 410 ns : File "D:/FALL_2024/EE278/miniproject1/fp_pipelined_mac/fp_pipelined_mac.srcs/sim_1/new/tb_fp_mac_pipelined.v" Line 99

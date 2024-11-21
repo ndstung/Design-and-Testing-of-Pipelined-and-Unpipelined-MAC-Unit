@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../fp_pipelined_mac.srcs/sources_1/new/fp_pipelined_adder.v" \
+"../../../../fp_pipelined_mac.srcs/sources_1/new/fp_pipelined_mac.v" \
+"../../../../fp_pipelined_mac.srcs/sources_1/new/fp_pipelined_multiplier.v" \
+"../../../../fp_pipelined_mac.srcs/sim_1/new/tb_fp_mac_pipelined.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

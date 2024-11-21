@@ -1,0 +1,9 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+D:/FALL_2024/EE278/miniproject1/fp_pipelined_mac/fp_pipelined_mac.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+D:/FALL_2024/EE278/miniproject1/fp_pipelined_mac/fp_pipelined_mac.srcs/sim_1/new/tb_fp_mac_pipelined.v,1727730746,verilog,,,,tb_fp_mac_pipelined,,,,,,,,
+D:/FALL_2024/EE278/miniproject1/fp_pipelined_mac/fp_pipelined_mac.srcs/sources_1/new/fp_pipelined_adder.v,1727730584,verilog,,D:/FALL_2024/EE278/miniproject1/fp_pipelined_mac/fp_pipelined_mac.srcs/sources_1/new/fp_pipelined_mac.v,,fp_adder_pipelined,,,,,,,,
+D:/FALL_2024/EE278/miniproject1/fp_pipelined_mac/fp_pipelined_mac.srcs/sources_1/new/fp_pipelined_mac.v,1727730624,verilog,,D:/FALL_2024/EE278/miniproject1/fp_pipelined_mac/fp_pipelined_mac.srcs/sources_1/new/fp_pipelined_multiplier.v,,fp_mac_pipelined,,,,,,,,
+D:/FALL_2024/EE278/miniproject1/fp_pipelined_mac/fp_pipelined_mac.srcs/sources_1/new/fp_pipelined_multiplier.v,1727730596,verilog,,D:/FALL_2024/EE278/miniproject1/fp_pipelined_mac/fp_pipelined_mac.srcs/sim_1/new/tb_fp_mac_pipelined.v,,fp_multiplier_pipelined,,,,,,,,
