@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+Result of 0.25 + 1.125 = 7e00
+Result of 150 - 250 = 6760
+Result of -2.5 × -7.25 = 4fbd
+Result of 0.0001 + 0.00000001 = 632d
+Result of 1024 - 8075 = 63d1
+Result of 2014 × 3.75 = 6240
+$finish called at time : 140 ns : File "D:/FALL_2024/EE278/miniproject1/fp_unpipelined_mac/fp_unpipelined_mac.srcs/sim_1/new/tb_fp_mac_unpipelined.v" Line 92
